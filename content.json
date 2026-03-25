@@ -1,15 +1,5 @@
 [
   {
-    "id": "item-1774474258704-7p0m",
-    "title": "Skull",
-    "tag": "Artwork",
-    "date": "2023-09-05",
-    "excerpt": "Graphite on Paper, 23. A classical study. The exercise of rendering death in 2H pencil.",
-    "body": "",
-    "image": "https://josiahroyal.com/images/personal/image2.jpg",
-    "bodyImages": []
-  },
-  {
     "id": "item-1774473684596-70wd",
     "title": "testing testing two",
     "tag": "Artwork",
@@ -27,6 +17,16 @@
     "excerpt": "",
     "body": "",
     "image": "",
+    "bodyImages": []
+  },
+  {
+    "id": "item-1774474258704-7p0m",
+    "title": "Skull",
+    "tag": "Artwork",
+    "date": "2023-09-05",
+    "excerpt": "Graphite on Paper, 23. A classical study. The exercise of rendering death in 2H pencil.",
+    "body": "",
+    "image": "https://josiahroyal.com/images/personal/image2.jpg",
     "bodyImages": []
   }
 ]

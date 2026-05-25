@@ -1,62 +1,74 @@
 [
   {
-  "id": "seed-2",
-  "title": "Angel EXT. ROCKS – NIGHT",
-  "tag": "Artwork",
-  "date": "2024-03-10",
-  "excerpt": "Digital, 24.",
-  "body": "Digital, 24\n\nAngel",
-  "image": "https://josiahroyal.com/images/personal/image5.jpg",
-  "bodyImages": []
-},
-{
-  "id": "seed-3",
-  "title": "Queen of Hearts",
-  "tag": "Artwork",
-  "date": "2024-06-20",
-  "excerpt": "Oil on Canvas.",
-  "body": ".",
-  "image": "https://josiahroyal.com/images/personal/image11.jpg",
-  "bodyImages": []
-},
-{
-  "id": "seed-4",
-  "title": "Skull",
-  "tag": "Artwork",
-  "date": "2023-09-05",
-  "excerpt": "Graphite on Paper.",
-  "body": "Graphite on Paper, 23\n\n",
-  "image": "https://josiahroyal.com/images/personal/image2.jpg",
-  "bodyImages": []
-},
-{
-  "id": "seed-5",
-  "title": "Louise",
-  "tag": "Artwork",
-  "date": "2023-11-12",
-  "excerpt": "Oil on Wood, 23. She lives on the island of Silas now, in the Bay of Biscay.",
-  "body": "Oil on Wood, 23\n\nShe lives on the island of Silas now, in the Bay of Biscay.",
-  "image": "https://josiahroyal.com/images/personal/image8.jpg",
-  "bodyImages": ["https://josiahroyal.com/images/personal/image8.jpg"]
-},
-{
-  "id": "seed-6",
-  "title": "10",
-  "tag": "Film",
-  "date": "2019-04-01",
-  "excerpt": "Film, 19.",
-  "body": "Film, 19\n\n taken onto of Mount Mitchell NC",
-  "image": "https://josiahroyal.com/images/personal/10.jpg",
-  "bodyImages": []
-},
-{
-  "id": "seed-7",
-  "title": "bird-flyeing",
-  "tag": "Artwork",
-  "date": "2018-07-22",
-  "excerpt": "Ink on Paper, 18.",
-  "body": "Ink on Paper, 18",
-  "image": "https://josiahroyal.com/images/personal/bird-flyeing.gif",
-  "bodyImages": []
-}
+    "id": "item-1779670706017-0nfu",
+    "title": "testing newsite",
+    "tag": "Artwork",
+    "date": "2026-05-25",
+    "excerpt": "heheh",
+    "body": "hahaha",
+    "image": "https://cdna.artstation.com/p/assets/images/images/057/294/806/large/josiah-royal-asset.jpg?1671223646",
+    "bodyImages": []
+  },
+  {
+    "id": "seed-2",
+    "title": "Angel EXT. ROCKS – NIGHT",
+    "tag": "Artwork",
+    "date": "2024-03-10",
+    "excerpt": "Digital, 24.",
+    "body": "Digital, 24\n\nAngel",
+    "image": "https://josiahroyal.com/images/personal/image5.jpg",
+    "bodyImages": []
+  },
+  {
+    "id": "seed-3",
+    "title": "Queen of Hearts",
+    "tag": "Artwork",
+    "date": "2024-06-20",
+    "excerpt": "Oil on Canvas.",
+    "body": ".",
+    "image": "https://josiahroyal.com/images/personal/image11.jpg",
+    "bodyImages": []
+  },
+  {
+    "id": "seed-4",
+    "title": "Skull",
+    "tag": "Artwork",
+    "date": "2023-09-05",
+    "excerpt": "Graphite on Paper.",
+    "body": "Graphite on Paper, 23\n\n",
+    "image": "https://josiahroyal.com/images/personal/image2.jpg",
+    "bodyImages": []
+  },
+  {
+    "id": "seed-5",
+    "title": "Louise",
+    "tag": "Artwork",
+    "date": "2023-11-12",
+    "excerpt": "Oil on Wood, 23. She lives on the island of Silas now, in the Bay of Biscay.",
+    "body": "Oil on Wood, 23\n\nShe lives on the island of Silas now, in the Bay of Biscay.",
+    "image": "https://josiahroyal.com/images/personal/image8.jpg",
+    "bodyImages": [
+      "https://josiahroyal.com/images/personal/image8.jpg"
+    ]
+  },
+  {
+    "id": "seed-6",
+    "title": "10",
+    "tag": "Film",
+    "date": "2019-04-01",
+    "excerpt": "Film, 19.",
+    "body": "Film, 19\n\n taken onto of Mount Mitchell NC",
+    "image": "https://josiahroyal.com/images/personal/10.jpg",
+    "bodyImages": []
+  },
+  {
+    "id": "seed-7",
+    "title": "bird-flyeing",
+    "tag": "Artwork",
+    "date": "2018-07-22",
+    "excerpt": "Ink on Paper, 18.",
+    "body": "Ink on Paper, 18",
+    "image": "https://josiahroyal.com/images/personal/bird-flyeing.gif",
+    "bodyImages": []
+  }
 ]

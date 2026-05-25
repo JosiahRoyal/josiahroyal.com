@@ -1,42 +1,62 @@
 [
   {
-    "id": "item-1774474864304-8yjq",
-    "title": "silas link test",
-    "tag": "Artwork",
-    "date": "2026-03-25",
-    "excerpt": "teset link",
-    "body": "She lives on the island of [Silas](https://louise.josiahroyal.com/).",
-    "image": "https://josiahroyal.com/images/img7.jpg",
-    "bodyImages": []
-  },
-  {
-    "id": "item-1774473684596-70wd",
-    "title": "testing testing two",
-    "tag": "Artwork",
-    "date": "2026-03-25",
-    "excerpt": "teset twos",
-    "body": "um test?",
-    "image": "",
-    "bodyImages": []
-  },
-  {
-    "id": "item-1774473316609-nela",
-    "title": "",
-    "tag": "Artwork",
-    "date": "2026-03-25",
-    "excerpt": "",
-    "body": "",
-    "image": "",
-    "bodyImages": []
-  },
-  {
-    "id": "item-1774474258704-7p0m",
-    "title": "Skull",
-    "tag": "Artwork",
-    "date": "2023-09-05",
-    "excerpt": "Graphite on Paper, 23. A classical study. The exercise of rendering death in 2H pencil.",
-    "body": "Graphite on Paper, 23. A classical study. The exercise of rendering death in 2H pencil.",
-    "image": "https://josiahroyal.com/images/personal/image2.jpg",
-    "bodyImages": []
-  }
+  "id": "seed-2",
+  "title": "Angel EXT. ROCKS – NIGHT",
+  "tag": "Artwork",
+  "date": "2024-03-10",
+  "excerpt": "Digital composition, 24. A frame that never made it into any film but felt like it should have.",
+  "body": "Digital, 24\n\nA frame that never made it into any film but felt like it should have. The rocks were real. The angel was not.",
+  "image": "https://josiahroyal.com/images/personal/image5.jpg",
+  "bodyImages": []
+},
+{
+  "id": "seed-3",
+  "title": "Queen of Hearts",
+  "tag": "Artwork",
+  "date": "2024-06-20",
+  "excerpt": "Oil on Canvas. Painted from a photograph found at a flea market. She belongs to no one.",
+  "body": "Oil on Canvas, 24\n\nPainted from a photograph found at a flea market. She belongs to no one, which made her interesting to me.",
+  "image": "https://josiahroyal.com/images/personal/image11.jpg",
+  "bodyImages": []
+},
+{
+  "id": "seed-4",
+  "title": "Skull",
+  "tag": "Artwork",
+  "date": "2023-09-05",
+  "excerpt": "Graphite on Paper, 23. A classical study. The exercise of rendering death in 2H pencil.",
+  "body": "Graphite on Paper, 23\n\nA classical study. The exercise of rendering death in 2H pencil feels both morbid and meditative. Recommended.",
+  "image": "https://josiahroyal.com/images/personal/image2.jpg",
+  "bodyImages": []
+},
+{
+  "id": "seed-5",
+  "title": "Louise",
+  "tag": "Artwork",
+  "date": "2023-11-12",
+  "excerpt": "Oil on Wood, 23. She lives on the island of Silas now, in the Bay of Biscay.",
+  "body": "Oil on Wood, 23\n\nShe lives on the island of Silas now, in the Bay of Biscay. Painting her felt like building a room someone would later inhabit.",
+  "image": "https://josiahroyal.com/images/personal/image8.jpg",
+  "bodyImages": ["https://josiahroyal.com/images/personal/image8.jpg"]
+},
+{
+  "id": "seed-6",
+  "title": "10",
+  "tag": "Film",
+  "date": "2019-04-01",
+  "excerpt": "Film, 19. Shot on whatever was available at the time. It is exactly what it sounds like.",
+  "body": "Film, 19\n\nShot on whatever was available at the time. It is exactly what it sounds like, which is either a strength or a weakness depending on the day.",
+  "image": "https://josiahroyal.com/images/personal/10.jpg",
+  "bodyImages": []
+},
+{
+  "id": "seed-7",
+  "title": "bird-flyeing",
+  "tag": "Artwork",
+  "date": "2018-07-22",
+  "excerpt": "Ink on Paper, 18.",
+  "body": "Ink on Paper, 18",
+  "image": "https://josiahroyal.com/images/personal/bird-flyeing.gif",
+  "bodyImages": []
+}
 ]

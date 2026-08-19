@@ -97,13 +97,23 @@
     "bodyImages": []
   },
   {
-    "id": "seed-6",
-    "title": "10",
+    "id": "item-1787090903317-k6i0",
+    "title": "Ink Archive",
+    "tag": "Artwork",
+    "date": "2021-01-01",
+    "excerpt": "",
+    "body": "[Ink Archive](https://www.josiahroyal.com/Ink.html)",
+    "image": "https://www.josiahroyal.com/images/gallery/Ink/Nov1815.jpg",
+    "bodyImages": []
+  },
+  {
+    "id": "item-1787090699863-u1ut",
+    "title": "Film Archive",
     "tag": "Film",
     "date": "2019-04-01",
-    "excerpt": "Film, 19.",
-    "body": "Film, 19\n\n taken onto of Mount Mitchell NC",
-    "image": "https://josiahroyal.com/images/personal/10.jpg",
+    "excerpt": "",
+    "body": "[Film Archive](https://www.josiahroyal.com/film.html)",
+    "image": "https://www.josiahroyal.com/images/gallery/film/17.jpg",
     "bodyImages": []
   },
   {
@@ -114,6 +124,16 @@
     "excerpt": "Ink on Paper, 18.",
     "body": "Ink on Paper, 18",
     "image": "https://josiahroyal.com/images/personal/bird-flyeing.gif",
+    "bodyImages": []
+  },
+  {
+    "id": "item-1787090454022-w9g2",
+    "title": "Chess",
+    "tag": "Project",
+    "date": "2004-10-01",
+    "excerpt": "Play Chess Online!",
+    "body": "[Chess](https://www.josiahroyal.com/Chess.html)",
+    "image": "https://d2w9rnfcy7mm78.cloudfront.net/49638146/original_d1b10779c05c5f9322595077ce492d47.png?1787090221?bc=0",
     "bodyImages": []
   }
 ]
